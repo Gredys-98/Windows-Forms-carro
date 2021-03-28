@@ -1,0 +1,15 @@
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\bin\Debug\Carrito 1.exe.config
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\bin\Debug\Carrito 1.exe
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\bin\Debug\Carrito 1.pdb
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.csproj.ResolveComReference.cache
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito_1.Form1.resources
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito_1.Properties.Resources.resources
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.csproj.GenerateResource.cache
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.exe
+C:\Users\Gredy\Desktop\windows forms c# ejercicios\Carrito 1\obj\Debug\Carrito 1.pdb
